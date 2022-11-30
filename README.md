@@ -1,4 +1,4 @@
-# FASTAPI PPPLICATION
+# FASTAPI APPPLICATION
 
 # Description
 Api, Integration with non relational database; sqlalchemy
